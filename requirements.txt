@@ -1,0 +1,7 @@
+voila
+pandas
+plot-express
+dash
+dash_core_components
+dash_html_components
+dash.dependencies
