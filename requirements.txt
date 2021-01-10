@@ -3,4 +3,4 @@ plotly-express
 dash
 dash_core_components
 dash_html_components
-Gunicorn
+gunicorn
