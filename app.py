@@ -88,13 +88,6 @@ if __name__ == '__main__':
     app.run_server(debug=False)
 
 
-# In[15]:
-
-
-df[df.Date=='2020-12-14'].H_A[1]
-
-
-# In[ ]:
 
 
 
